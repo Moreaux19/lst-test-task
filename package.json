@@ -1,0 +1,9 @@
+{
+  "name": "lst-test-task",
+  "type": "module",
+  "main": "src/serializer.js",
+  "scripts": {
+    "test": "node src/tests.js"
+  },
+  "license": "MIT"
+}
