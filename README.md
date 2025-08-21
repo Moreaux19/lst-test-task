@@ -14,6 +14,6 @@
 
 ```bash
 git clone git@github.com:Moreaux19/lst-test-task.git
-cd compact-serializer-js
+cd lst-test-task
 node src/tests.js
 ```
