@@ -13,7 +13,7 @@
 ## Как запустить
 
 ```bash
-git clone <репозиторий>
+git clone git@github.com:Moreaux19/lst-test-task.git
 cd compact-serializer-js
 node src/tests.js
 ```
